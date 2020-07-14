@@ -1,0 +1,33 @@
+.button{
+    border:1px solid #333;
+    background:#6479fd;
+}
+.button:hover{
+    background:#a4a9fd;
+}
+.dialog{
+    border:5px solid #666;
+    padding:10px;
+    background:#3A3A3A;
+    position:absolute;
+    display:none;
+}
+.dialog label{
+    display:inline-block;
+    color:#cecece;
+}
+input[type=text]{
+    border:1px solid #333;
+    display:inline-block;
+    margin:5px;
+}
+#btnOK{
+    border:1px solid #000;
+    background:#ff9999;
+    margin:5px;
+}
+
+#btnOK:hover{
+    border:1px solid #000;
+    background:#ffacac;
+}
